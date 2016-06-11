@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AD973A403AA120D84C13DA340F4D79477029FFEF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AD973A403AA120D84C13DA340F4D79477029FFEF" : 0,
+    "BA499833F80BBA4EA3625B4BFBBF6919E08C7155" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5BA5FACB-4B16-4C2A-9635-BA5DE4017AE9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AD973A403AA120D84C13DA340F4D79477029FFEF" : "MakeSchoolNotes-Swift-Project",
+    "BA499833F80BBA4EA3625B4BFBBF6919E08C7155" : "MakeSchoolNotes-Swift-Project\/Frameworks\/ConvenienceKit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MakeSchoolNotes",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MakeSchoolNotes.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/orcudy\/MakeSchoolNotes-Swift-Project.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AD973A403AA120D84C13DA340F4D79477029FFEF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MakeSchool\/ConvenienceKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BA499833F80BBA4EA3625B4BFBBF6919E08C7155"
+    }
+  ]
+}
